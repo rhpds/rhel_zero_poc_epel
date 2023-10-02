@@ -1,7 +1,7 @@
 name: template-tutorial
-title: Showroom base template
+title: EPEL Introduction
 version: master
-nav:
-  - modules/ROOT/nav.adoc
+# nav:
+#   - modules/ROOT/nav.adoc
 
 start_page: ROOT:index.adoc
